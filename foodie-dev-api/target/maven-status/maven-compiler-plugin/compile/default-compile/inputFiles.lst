@@ -1,0 +1,16 @@
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/BaseController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/RedisController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/PassPortController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/Application.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/OrdersController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/WebMvcConfig.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/CorsConfig.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/Swagger2.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/WarStarterApplication.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/config/OrderJob.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/ShopcatController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/AddressController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/ItemsController.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/Hello.java
+/Users/lichuang/IdeaProjects/foodie-dev/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java

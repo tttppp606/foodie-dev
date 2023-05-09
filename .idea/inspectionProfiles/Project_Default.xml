@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.slf4j:slf4j-log4j12" />
+          <option value="com.github.pagehelper:pagehelper-spring-boot-starter" />
+          <option value="commons-codec:commons-codec" />
+          <option value="com.github.xiaoymin:swagger-bootstrap-ui" />
+          <option value="io.springfox:springfox-swagger-ui" />
+          <option value="io.springfox:springfox-swagger2" />
+          <option value="mysql:mysql-connector-java" />
+          <option value="org.apache.commons:commons-lang3" />
+          <option value="org.mybatis.spring.boot:mybatis-spring-boot-starter" />
+          <option value="org.slf4j:slf4j-api" />
+          <option value="tk.mybatis:mapper-spring-boot-starter" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpringXmlAutowiringInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+  </profile>
+</component>
